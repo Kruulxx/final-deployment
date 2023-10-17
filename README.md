@@ -117,7 +117,7 @@ Follow these steps to install and set up your Laravel project:
 Clone the repository:
 
  ```sh
-    git clone https://github.com/ccmanganti/fms.git
+    git clone https://github.com/Kruulxx/final-deployment.git
    ```
 
 Install dependencies:
