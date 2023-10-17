@@ -193,11 +193,7 @@ Usage desciption here...
 
 
 <!-- CONTACT -->
-## Contact
 
-Your Name - [@ccmanganti](https://facebook.com/ccmanganti) - cpe.christopherclarkcmanganti@gmail.com
-
-Project Link: [https://github.com/ccmanganti/fms](https://github.com/ccmanganti/fms)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
